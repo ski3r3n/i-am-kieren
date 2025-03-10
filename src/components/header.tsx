@@ -19,7 +19,7 @@ export default function Home() {
           <Link href="/about">About</Link>
         </Box>
         <Box ml="3" alignContent={"center"}>
-          <Link href="/Contact">Contact</Link>
+          <Link href="/contact">Contact</Link>
         </Box>
       </Box>
     </>
