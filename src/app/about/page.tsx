@@ -25,7 +25,7 @@ export default function About() {
         </Box>
         <Box ml="3" rounded="2xl" bg="gray.800" p="10" h="96" w="xl">
           <Text>
-            Hello! I'm <b>Kie Ren</b> and and I'm a <b>software developer</b>. I
+            Hello! I&apos;m <b>Kie Ren</b> and and I&apos;m a <b>software developer</b>. I
             typically work in <b>frontend development</b>, mainly with{" "}
             <b>Next.js</b>. I sometimes do some game development in Unity in C#
             too.
@@ -35,8 +35,8 @@ export default function About() {
             was working in <b>Python</b> and many other languages. Here I am
             now!
             <br />
-            Today, I'm in <b>Hwa Chong Institution</b> as a student, and
-            pursuing my passion in coding. I'm also a member of the school's{" "}
+            Today, I&apos;m in <b>Hwa Chong Institution</b> as a student, and
+            pursuing my passion in coding. I&apos;m also a member of the school&apos;s{" "}
             <b>Infocomm</b> club, where I learn more about coding and
             technology.
             <br />
