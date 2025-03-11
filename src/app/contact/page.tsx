@@ -50,7 +50,7 @@ export default function Contact() {
               </Heading>
             </Box>
             <Text m="auto" w="fit" textAlign={"center"}>
-              I occasionally check this. Don't really expect a reply quickly.
+              I occasionally check this. Don&apos;t really expect a reply quickly.
             </Text>
           </GridCard>
           <GridCard link="https://discord.com/users/978901784825315338">
@@ -60,7 +60,7 @@ export default function Contact() {
               </Heading>
             </Box>
             <Text m="auto" w="fit" textAlign={"center"}>
-              I am quite active here, but don't expect a ping to work.
+              I am quite active here, but don&apos;t expect a ping to work.
             </Text>
           </GridCard>
           <GridCard link="https://ch.tetr.io/u/ski3r3n">
@@ -80,7 +80,7 @@ export default function Contact() {
               </Heading>
             </Box>
             <Text m="auto" w="fit" textAlign={"center"}>
-              I hardly check this. Don't expect a reply quickly.
+              I hardly check this. Don&apos;t expect a reply quickly.
             </Text>
           </GridCard>
         </Grid>
